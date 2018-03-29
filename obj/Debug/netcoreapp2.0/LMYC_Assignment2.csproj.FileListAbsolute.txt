@@ -1,0 +1,12 @@
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\app.db
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\LMYC_Assignment2.deps.json
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\LMYC_Assignment2.runtimeconfig.json
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\LMYC_Assignment2.runtimeconfig.dev.json
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\LMYC_Assignment2.dll
+C:\4976\LMYC_Assignment2\bin\Debug\netcoreapp2.0\LMYC_Assignment2.pdb
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\LMYC_Assignment2.csproj.CoreCompileInputs.cache
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\LMYC_Assignment2.AssemblyInfoInputs.cache
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\LMYC_Assignment2.AssemblyInfo.cs
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\LMYC_Assignment2.dll
+C:\4976\LMYC_Assignment2\obj\Debug\netcoreapp2.0\LMYC_Assignment2.pdb
